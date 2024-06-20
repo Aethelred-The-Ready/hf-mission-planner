@@ -1,5 +1,5 @@
 # High Frontier mission planner on steroid
-This project is a fork of an already existing [HF4 mission planner ](https://nornagon.github.io/hf-mission-planner).
+This project is a fork of a [fork https://github.com/MironSz/hf-mission-planner/tree/master] of an already existing [HF4 mission planner ](https://nornagon.github.io/hf-mission-planner).
 
 This is a ~cheating tool~   ~fun killer~ mission planner for the board game [High Frontier](https://boardgamegeek.com/boardgame/281655/high-frontier-4-all). It can help you to find the best route from one place in the solar system to another. It's built in the browser, so there's nothing to download or install.
 
@@ -13,7 +13,7 @@ Additionaly, it finds and display all optimal paths.
 
 
 
-[☞ **Open HF Mission Planner (4th Ed.)**](https://mironsz.github.io/hf-mission-planner/index.html)
+[☞ **Open HF Mission Planner (4th Ed.)**](https://aethelred-the-ready.github.io/hf-mission-planner/index.html)
 
 
 
