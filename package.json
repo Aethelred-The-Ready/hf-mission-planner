@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MironSz/hf-mission-planner.git"
+    "url": "git+https://github.com/Aethelred-The-Ready/hf-mission-planner.git"
   },
-  "author": "Miron Szewczyk<mj.szewczyk2@student.uw.edu.pl>",
+  "author": "Alastair Cranston<cranston.alastair@gmail.com>",
   "license": "AGPL-3.0-only",
-  "homepage": "https://github.com/nornagon/hf-mission-planner#readme",
+  "homepage": "https://github.com/Aethelred-The-Ready/hf-mission-planner#readme",
   "dependencies": {
     "closure-heap": "^1.0.0",
     "d3-zoom": "^1.8.3",
